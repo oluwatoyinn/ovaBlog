@@ -1,7 +1,7 @@
 {
-  "mongoURI": "mongodb+srv://victor123:victor123@ovablog.rzc90.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "null",
   "jwtTokenSecret":"mysecrettoken",
-  "githubClientId":"2795e66e353196c7b537",
-  "githubSecret":"d3b21224a68979fda1c901e481992c0281f0c01f"
+  "githubClientId":"null",
+  "githubSecret":"null"
 }
 
